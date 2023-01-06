@@ -28,4 +28,4 @@ Only if all that fails, the the `eval $(ssh-agent)` command is actually run and 
 
 If adding an identity requires a passphrase, then the way the identities are added at the moment might actually not work as expected (or at all).
 
-Also, this script has so far only been tested and used on a Windows system in the scope of Git Bash. Running it only Linux may have unexpected consequences.
+Also, this script has so far only been tested and used on a Windows system in the scope of Git Bash. Running it on Linux may have unexpected consequences.
